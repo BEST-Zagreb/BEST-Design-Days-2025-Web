@@ -29,7 +29,7 @@ The tree holds 31 pairs of paths that differ only in letter case (for example `f
 
 ## Hosting
 
-Live at <https://2025.designdays.best.hr/>, served by Cloudflare Workers as static files straight from this repository. Every push to `main` is deployed by Workers Builds within a minute or two. Every page carries an archive notice and a `noindex` header, added at the edge by `banner.js`, so search engines keep sending people to the current site; the archived files themselves are untouched.
+Live at <https://2025.designdays.best.hr/>, served by Cloudflare Workers as static files straight from this repository. Every push to `main` is deployed by Workers Builds within a minute or two. Every response carries a `noindex` header, added at the edge by `banner.js`, so search engines keep sending people to the current site; the archived files themselves are untouched. Unlike the other archives, the pages show no archive notice.
 
 ## Editions
 
