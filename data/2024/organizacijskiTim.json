@@ -1,0 +1,58 @@
+[
+    {
+      "ime": "Tajana Milković",
+      "funkcija": "Glavni organizator",
+      "funkcija2": null,
+      "funkcijaEng": "Main organiser",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2024/tmMO.jpg",
+      "kontakt": true
+    },
+    {
+      "ime": "Martin Vrbovčan",
+      "funkcija": "Odgovoran za odnose s tvrtkama",
+      "funkcija2": null,
+      "funkcijaEng": "FR responsible",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2024/mvFR.jpg",
+      "kontakt": true
+    },
+    {
+      "ime": "Sara Rivić Carević",
+      "funkcija": "Akademik",
+      "funkcija2": null,
+      "funkcijaEng": "Responsible for lecturers",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2024/srcAK.jpg",
+      "kontakt": true
+    },
+    {
+      "ime": "Luka Kosak",
+      "funkcija": "Odgovoran za dizajn",
+      "funkcija2": null,
+      "funkcijaEng": "Design responsible",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2024/lkDZ.jpg",
+      "kontakt": true
+    },
+    {
+      "ime": "Patrik Kapetan",
+      "funkcija": "Odgovoran za odnose s javnošću",
+      "funkcija2": null,
+      "funkcijaEng": "Public relations responsible",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2024/pkPR.jpg",
+      "kontakt": true
+    }
+  ]
+  

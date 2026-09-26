@@ -1,0 +1,41 @@
+{
+  "zlatni": [
+  ],
+  "srebrni": [
+    {
+      "naziv": "Pine",
+      "imgUrl": "./img/partners/project/2025/Pine_logo.png",
+      "linkUrl": "https://pinestudio.com/",
+      "scale": 0.7
+    },
+    {
+      "naziv": "Macan",
+      "imgUrl": "./img/partners/project/2025/Macan.png",
+      "linkUrl": "https://macan.hr/"
+    }
+  ],
+  "broncani": [
+    {
+      "naziv": "VR Kino KEK",
+      "imgUrl": "./img/partners/project/2025/VR KINO KEK.png",
+      "linkUrl": "https://vrkino.kek.hr/",
+      "scale": 1.2
+    },
+    {
+      "naziv": "Sveučilišna tiskara",
+      "imgUrl": "./img/partners/project/2025/SVEUCILISNA TISKARA LOGO.png",
+      "linkUrl": "https://www.sveucilisnatiskara.hr/",
+      "scale": 1
+    }
+  ],
+  "akademski": [
+    {
+      "naziv": "Fakultet strojarstva i brodogradje",
+      "imgUrl": "./img/partners/project/2025/FSB_logo.jpg",
+      "linkUrl": "https://www.fsb.unizg.hr/index.php",
+      "scale": 1
+    }
+  ],
+  "materijalni": [
+  ]
+}

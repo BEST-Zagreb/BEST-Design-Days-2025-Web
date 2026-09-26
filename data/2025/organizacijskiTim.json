@@ -1,0 +1,79 @@
+[
+    {
+      "ime": "Sara Rivić Carević",
+      "funkcija": "Glavna organizatorica",
+      "funkcija2": null,
+      "funkcijaEng": "Main organiser",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2025/saraMO.jpg",
+      "kontakt": true
+    },
+    {
+      "ime": "Ivan Androšević",
+      "funkcija": "Odgovoran za odnose s tvrtkama",
+      "funkcija2": null,
+      "funkcijaEng": "Corporate relations responsible",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2025/ivanFR.jpg",
+      "kontakt": true
+    },
+    {
+      "ime": "Lana Nježić",
+      "funkcija": "Akademik",
+      "funkcija2": null,
+      "funkcijaEng": "Responsible for lecturers",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2025/lanaAK.jpg",
+      "kontakt": false
+    },
+    {
+      "ime": "Ilona Bošnjaković",
+      "funkcija": "Odgovorna za dizajn",
+      "funkcija2": null,
+      "funkcijaEng": "Design responsible",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2025/IlonaDZ.jpg",
+      "kontakt": false
+    },
+    {
+      "ime": "Anja Zadravec",
+      "funkcija": "Odgovorna za odnose s javnošću",
+      "funkcija2": null,
+      "funkcijaEng": "Public relations responsible",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2025/anjaPR.jpg",
+      "kontakt": false
+    },
+    {
+      "ime": "Valerija Bočkaj",
+      "funkcija": "Odgovorna za sudionike",
+      "funkcija2": null,
+      "funkcijaEng": "Responsible for participants",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2025/valerijaPAX.jpg",
+      "kontakt": false
+    }, {
+      "ime": "Ema Ružić",
+      "funkcija": "Odgovorna za logistiku",
+      "funkcija2": null,
+      "funkcijaEng": "Logistics responsible",
+      "funkcija2Eng": null,
+      "email": "designdays@best.hr",
+      "tel": "",
+      "imgUrl": "./img/people/orgs/2025/emaLOG.jpeg",
+      "kontakt": false
+    }
+  ]
+  
